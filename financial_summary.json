@@ -1,0 +1,11 @@
+{
+  "company_name": "GC메디아이",
+  "corp_code": null,
+  "updated_at": null,
+  "start_year": 2010,
+  "end_year": null,
+  "filing_count": 0,
+  "financial_year_count": 0,
+  "notes": ["초기 상태입니다. GitHub Actions에서 DART_API_KEY를 설정한 뒤 워크플로를 실행하세요."],
+  "records": []
+}
